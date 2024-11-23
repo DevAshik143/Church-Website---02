@@ -1,0 +1,92 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon2053.ttf?6655c26f6f526bf474844930b36b5e1d") format("truetype"),
+url("flaticon2053.woff?6655c26f6f526bf474844930b36b5e1d") format("woff"),
+url("flaticon2053.woff2?6655c26f6f526bf474844930b36b5e1d") format("woff2"),
+url("flaticon2053.eot?6655c26f6f526bf474844930b36b5e1d#iefix") format("embedded-opentype"),
+url("flaticon2053.svg?6655c26f6f526bf474844930b36b5e1d#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, 
+i[class*=" flaticon-"]:before,
+span[class^="flaticon-"]:before, 
+span[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-award:before {
+    content: "\f101";
+}
+.flaticon-bell:before {
+    content: "\f102";
+}
+.flaticon-buddha:before {
+    content: "\f103";
+}
+.flaticon-buddhism:before {
+    content: "\f104";
+}
+.flaticon-buddhist-1:before {
+    content: "\f105";
+}
+.flaticon-buddhist-2:before {
+    content: "\f106";
+}
+.flaticon-buddhist:before {
+    content: "\f107";
+}
+.flaticon-candles:before {
+    content: "\f108";
+}
+.flaticon-credit-card:before {
+    content: "\f109";
+}
+.flaticon-diamond:before {
+    content: "\f10a";
+}
+.flaticon-headphones:before {
+    content: "\f10b";
+}
+.flaticon-lotus:before {
+    content: "\f10c";
+}
+.flaticon-message:before {
+    content: "\f10d";
+}
+.flaticon-money:before {
+    content: "\f10e";
+}
+.flaticon-offer:before {
+    content: "\f10f";
+}
+.flaticon-pray:before {
+    content: "\f110";
+}
+.flaticon-search-1:before {
+    content: "\f111";
+}
+.flaticon-search:before {
+    content: "\f112";
+}
+.flaticon-security:before {
+    content: "\f113";
+}
+.flaticon-speed:before {
+    content: "\f114";
+}
+.flaticon-tap:before {
+    content: "\f115";
+}
+.flaticon-target:before {
+    content: "\f116";
+}
+.flaticon-trophy:before {
+    content: "\f117";
+}
